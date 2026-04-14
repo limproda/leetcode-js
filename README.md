@@ -9,11 +9,11 @@ The goal is not to collect random solved problems, but to build a structured lea
 - improve problem solving under interview conditions
 - review weak areas systematically
 
-## Philosphy
+## Philosophy
 
 Every problem is part of a bigger learning system, that includes:
 
-- patter recognition
+- pattern recognition
 - notes
 - template extraction
 - mistake tracking
@@ -43,3 +43,13 @@ leetcode-js/
 - heap/
 - backtracking/
 - dp/
+
+## Problem-Solving Workflow
+
+My typical workflow for each problem is:
+
+1. understand the problem and constraints
+2. attempt a first solution
+3. identify the underlying pattern
+4. refine the solution
+5. document complexity, mistakes, and takeaways
