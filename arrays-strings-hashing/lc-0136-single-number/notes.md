@@ -38,7 +38,7 @@ When:
 - every element appears twice except one
 - space is constrained to O(1)
 
-→ think about XOR
+-> think about XOR
 
 Key properties:
 - `a ^ a = 0`
